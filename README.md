@@ -1,5 +1,5 @@
 
-# NUR-E-MUDDASSIR-TANIM
+# NUR E MUDDASSIR TANIM
 MY PERSONAL REPOSITORY
 <h1 align="center">Hi,I'm NUR E MUDDASSIR TANIM</h1>
 <h3 align="center">A passionate Problem Solver.</h3>
