@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuretanim&label=Profile%20views&color=0e75b6&style=flat" alt="nuretanim" /> </p>
 
  I’m currently **solving problems.**
-- 📫 How to reach me **nur.etanim@gmail.com**
+
 
 <h2 align="center">
   Let's Connect and have a Chat!💬
